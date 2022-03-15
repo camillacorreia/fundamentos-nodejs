@@ -1,0 +1,11 @@
+{
+  "name": "fundamentos-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/camillacorreia/fundamentos-nodejs.git",
+  "author": "Camilla Correia <camillajesuscorreia@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
